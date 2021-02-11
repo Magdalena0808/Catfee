@@ -179,7 +179,7 @@ a:hover {
 }
 
 .statement {
-    background: url("img/coffee.jpg");
+    background: url("img/coffee.jpg"); /* <a href='https://www.freepik.com/photos/background'>Background photo created by wirestock - www.freepik.com</a>*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
