@@ -239,6 +239,7 @@ a:hover {
 
 .gallery-section img {
     max-width: 300px;
+    height: auto;
     margin-bottom: 50px;
 }
 
