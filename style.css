@@ -8,6 +8,11 @@
     src: url("MTCORSVA.TTF");
 }
 
+@font-face {
+    font-family: myHelvetica;
+    src:url("Helvetica.ttf");
+}
+
 :root {
     --text-nav: 'myForte';
     --text-content: 'myMonotype';
@@ -212,7 +217,7 @@ a:hover {
 }
 
 .statement p span {
-    font-family: "Helvetica";
+    font-family: "myHelvetica";
 }
 
 .gallery-section {
