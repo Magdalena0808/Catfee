@@ -3,10 +3,14 @@
     src: url("FORTE.TTF");
 }
 
+@font-face {
+    font-family: myMonotype;
+    src: url("MTCORSVA.TTF");
+}
 
 :root {
     --text-nav: 'myForte';
-    --text-content: 'Monotype corsiva';
+    --text-content: 'myMonotype';
 }
 
 * {
