@@ -1,5 +1,11 @@
+@font-face {
+    font-family: myForte;
+    src: url("FORTE.TTF");
+}
+
+
 :root {
-    --text-nav: 'Forte';
+    --text-nav: 'myForte';
     --text-content: 'Monotype corsiva';
 }
 
